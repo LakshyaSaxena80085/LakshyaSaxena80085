@@ -1,6 +1,11 @@
-## Hey there 👋
+<h1 align="center">~ Hey there 👋 ~</h1>
 
-I'm **Lakshya**, a computer science student and developer based in India.
+<p align="center">
+  <img src="banner.gif" width="100%" alt="My Profile Banner">
+</p>
+
+<br>
+I'm **Lakshya** , a computer science student and developer based in India.
 
 I spend most of my time diving into low-level logic with **C++** and building scripts or AI experiments with **Python**. I'm currently focused on learning how things work under the hood, from system architecture to cybersecurity.
 
