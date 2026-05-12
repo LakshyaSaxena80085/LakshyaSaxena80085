@@ -3,7 +3,11 @@
 <p align="center">
   <img src="banner.jpg" height="50%" width="100%" alt="My Profile Banner">
 </p>
-
+<p align="center">
+  <a href="https://lakshyasaxena80085.github.io/Myportfolio/" target="_blank">
+    🔗 <b>Explore my Projects & Portfolio</b>
+  </a>
+</p>
 <br>
 I'm **Lakshya** , a computer science student and developer based in India.
 
