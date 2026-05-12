@@ -1,7 +1,7 @@
 <h1 align="center">~ Hey there 👋 ~</h1>
 
 <p align="center">
-  <img src="banner.gif" width="100%" alt="My Profile Banner">
+  <img src="banner.jpg" height="50%" width="100%" alt="My Profile Banner">
 </p>
 
 <br>
